@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/alain/C++ Projects/Task_2/Task_2/Content/Blip.mp3</SourceFile>
+  <SourceTime>2023-04-20T18:28:48+02:00</SourceTime>
+  <DestFile>C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/Blip.xnb</DestFile>
+  <DestTime>2023-04-24T17:47:43.8917514+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

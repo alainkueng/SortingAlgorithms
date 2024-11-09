@@ -1,0 +1,102 @@
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Task_2.exe
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Task_2.deps.json
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Task_2.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Task_2.pdb
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CopyComplete
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.dll
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.pdb
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+D:\Csharp_Task2\Task_2\Task_2\obj\Debug\net6.0\ref\Task_2.dll
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Content\Red_bar.xnb
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Content\White_bar.xnb
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Content\galleryFont.xnb
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Content\red_bar_head.xnb
+D:\Csharp_Task2\Task_2\Task_2\bin\Debug\net6.0\Content\white_bar_head.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\galleryFont.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\Red_bar.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\red_bar_head.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\White_bar.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\white_bar_head.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Task_2.exe
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Task_2.deps.json
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Task_2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Task_2.pdb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.csproj.CopyComplete
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.pdb
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+C:\Users\alain\C++ Projects\Task_2\Task_2\obj\Debug\net6.0\ref\Task_2.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\Blip.ogg
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Content\Blip.xnb
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\MonoGame.Extended.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\MonoGame.Extended.Gui.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\MonoGame.Extended.Input.dll
+C:\Users\alain\C++ Projects\Task_2\Task_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\Blip.ogg
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\Blip.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\galleryFont.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\Red_bar.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\red_bar_head.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\White_bar.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Content\white_bar_head.xnb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Task_2.exe
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Task_2.deps.json
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Task_2.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Task_2.pdb
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\MonoGame.Extended.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\MonoGame.Extended.Gui.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\MonoGame.Extended.Input.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Csharp_Task2\Task_2\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.csproj.CopyComplete
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.dll
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.pdb
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+D:\Csharp_Task2\Task_2\obj\Debug\net6.0\ref\Task_2.dll

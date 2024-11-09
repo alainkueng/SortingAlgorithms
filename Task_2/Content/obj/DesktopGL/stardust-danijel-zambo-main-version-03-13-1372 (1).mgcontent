@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/alain/C++ Projects/Task_2/Task_2/Content/stardust-danijel-zambo-main-version-03-13-1372 (1).mp3</SourceFile>
+  <SourceTime>2023-05-01T16:40:28.8126924+02:00</SourceTime>
+  <DestFile>C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/stardust-danijel-zambo-main-version-03-13-1372 (1).xnb</DestFile>
+  <DestTime>2023-05-01T17:39:24.0655795+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/stardust-danijel-zambo-main-version-03-13-1372 (1).ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

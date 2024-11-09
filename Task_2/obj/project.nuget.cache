@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQc/TdbhdBjsni6h13S3xCt8QP6XpSH2oqsMp453IS1HcbL6hJbgAAk+KWL3febw6DMuiNYgMyimdVChu3HeRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alain\\C++ Projects\\Task_2\\Task_2\\Sorting Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alain\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\alain\\.nuget\\packages\\monogame.extended\\3.8.0\\monogame.extended.3.8.0.nupkg.sha512",
+    "C:\\Users\\alain\\.nuget\\packages\\monogame.extended.gui\\3.8.0\\monogame.extended.gui.3.8.0.nupkg.sha512",
+    "C:\\Users\\alain\\.nuget\\packages\\monogame.extended.input\\3.8.0\\monogame.extended.input.3.8.0.nupkg.sha512",
+    "C:\\Users\\alain\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\alain\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

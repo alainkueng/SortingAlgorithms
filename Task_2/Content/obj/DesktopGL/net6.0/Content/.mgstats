@@ -1,0 +1,12 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/background.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",1286381,4665685,0.376622
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/Blip.mp3","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/Blip.xnb","SoundEffectProcessor","SoundEffectContent",10031,55401,0.4372618
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/galleryFont.spritefont","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.1723066
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/gameBackground.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/gameBackground.xnb","TextureProcessor","Texture2DContent",1284691,4665685,0.3973392
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/MusicOff.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/MusicOff.xnb","TextureProcessor","Texture2DContent",917,11685,0.2266203
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/MusicOn.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/MusicOn.xnb","TextureProcessor","Texture2DContent",1305,11917,0.0054261
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/red_bar_head.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/red_bar_head.xnb","TextureProcessor","Texture2DContent",114,245,0.0199721
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/red_bar.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/red_bar.xnb","TextureProcessor","Texture2DContent",105,245,0.0035625
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/stardust-danijel-zambo-main-version-03-13-1372.mp3","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/stardust-danijel-zambo-main-version-03-13-1372.xnb","SongProcessor","SongContent",7756077,164,4.112642
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/white_bar_head.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/white_bar_head.xnb","TextureProcessor","Texture2DContent",114,245,0.0031486
+"C:/Users/alain/C++ Projects/Task_2/Task_2/Content/white_bar.png","C:/Users/alain/C++ Projects/Task_2/Task_2/Content/bin/DesktopGL/Content/white_bar.xnb","TextureProcessor","Texture2DContent",105,245,0.0029224
