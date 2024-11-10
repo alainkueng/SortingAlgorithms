@@ -1,6 +1,12 @@
-# Task 2: Setup and Running Instructions
+# Task 2: Sorting Algorithms
 
-## Step 1: Install Required Software
+This project was part of a lecture at the University of Zurich. The goal of the lecture was to learn a new programing language of choice from scratch. 
+
+Task 2 of this lecture was to program and visualize different sorting algorithms. It also included providing a step-by-step guide on how to install and run the app. 
+
+I implemented the application using C# and the Monogame framework.
+
+## Requirements:
 
 1. **Install Visual Studio 2022**
    - **Download Link**: [Visual Studio 2022](https://visualstudio.microsoft.com/de/vs/)
@@ -11,7 +17,7 @@
 
 ---
 
-## Step 2: Open the Project
+## Run the application:
 
 ### Option 1: Using the Existing Solution File
 1. **Locate the Solution File**: Open the `Task_2.sln` file in **Visual Studio 2022**.
@@ -41,3 +47,7 @@
 4. **Run the Project**
    - Click the **Start** button in Visual Studio or press `F5`.
    - The Monogame application should launch successfully.
+
+---
+
+
